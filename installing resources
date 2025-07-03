@@ -1,0 +1,4 @@
+firstly open windows powershell platform and everything write in visual studio code(scripts)
+and make sure install git,docker,vim,helm locally means windows10 and set up environment variables edit system variable source path and destination path enble docker wsl must install 
+and next you need to configure aws access key and Id 
+next install kubectl and eksctl then create cluster and apply deployment.yml,srvice.yml and ingress.yml next you need to install nginx
